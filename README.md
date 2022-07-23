@@ -2,7 +2,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+
 <h1 align="center">Hi 👋, I'm Deepraj</h1>
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -13,7 +16,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - 📫 How to reach me **deeprajm35@gmail.com**
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Deepraj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deepraj-majalikar)
+- :mailbox:Connect me on Linkedin: [![Linkedin Badge](https://img.shields.io/badge/-Deepraj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deepraj-majalikar)
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
@@ -32,10 +35,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 <h3 align="left">Connect with me:</h3>
-
-
-
-
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/deepraj-majalikar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deepraj-majalikar" height="30" width="40" /></a>
